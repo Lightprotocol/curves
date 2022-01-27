@@ -1,3 +1,4 @@
+// checking: curves: g2: repl
 use ark_ec::models::{ModelParameters, SWModelParameters};
 use ark_ff::{field_new, Zero};
 
