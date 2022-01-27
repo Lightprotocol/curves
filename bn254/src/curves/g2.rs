@@ -1,4 +1,3 @@
-// curves, release0.3.0
 use ark_ec::models::{ModelParameters, SWModelParameters};
 use ark_ff::{field_new, Zero};
 
